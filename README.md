@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nayred3
 - 👀 I’m interested in ... Data Science and Machine Learning
 - 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... Discord Bots, Deploying ML/DL models on Applications, iOS Applications made using SwiftUI
+- 💞️ I’m looking to collaborate on ... Websites, Deploying ML/DL models on Applications, iOS Applications 
 - 📫 How to reach me ... nayred#0495 on Discord, that is my most active platform
 
 <!---
